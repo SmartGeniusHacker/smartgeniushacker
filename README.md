@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartgeniushacker&label=Profile%20views&color=0e75b6&style=flat" alt="smartgeniushacker" /> </p>
 
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shivam+Kumar+Dubey..;Ethical+Hacker+&+Software+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
